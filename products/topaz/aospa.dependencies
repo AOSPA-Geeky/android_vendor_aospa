@@ -1,0 +1,63 @@
+[
+    {
+        "remote":       "github",
+        "repository":   "AOSPA-Geeky/android_device_xiaomi_topaz",
+        "target_path":  "device/xiaomi/topaz",
+        "revision":     "uvite"
+    },
+    {
+        "remote":       "github",
+        "repository":   "AOSPA-Geeky/android_device_xiaomi_topaz-kernel",
+        "target_path":  "device/xiaomi/topaz-kernel",
+        "revision":     "uvite",
+        "clone-depth":  "1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "AOSPA-Geeky/android_hardware_qcom_audio",
+        "target_path":  "vendor/qcom/opensource/audio-hal/primary-hal",
+        "revision":     "uvite-bengal-5.15"
+    },
+    {
+        "remote":       "github",
+        "repository":   "AOSPA-Geeky/android_hardware_qcom_display",
+        "target_path":  "hardware/qcom/display",
+        "revision":     "uvite-bengal-5.15"
+    },
+    {
+        "remote":       "github",
+        "repository":   "AOSPA-Geeky/android_hardware_qcom_gps",
+        "target_path":  "hardware/qcom/gps",
+        "revision":     "uvite-bengal-5.15"
+    },
+    {
+        "remote":       "github",
+        "repository":   "AOSPA-Geeky/android_hardware_qcom_media",
+        "target_path":  "hardware/qcom/media",
+        "revision":     "uvite-bengal-5.15"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "AOSPA/android_hardware_xiaomi",
+        "target_path":  "hardware/xiaomi",
+        "revision":     "uvite"
+    },
+    {
+        "remote":       "github",
+        "repository":   "AOSPA-Geeky/android_vendor_qcom_opensource_arpal-lx",
+        "target_path":  "vendor/qcom/opensource/pal",
+        "revision":     "uvite-bengal-5.15"
+    },
+    {
+        "remote":       "github",
+        "repository":   "AOSPA-Geeky/android_vendor_qcom_opensource_agm",
+        "target_path":  "vendor/qcom/opensource/agm",
+        "revision":     "uvite-bengal-5.15"
+    },
+    {
+        "remote":       "github",
+        "repository":   "AOSPA-Geeky/android_vendor_xiaomi_topaz",
+        "target_path":  "vendor/xiaomi/topaz",
+        "revision":     "uvite"
+    }
+]
